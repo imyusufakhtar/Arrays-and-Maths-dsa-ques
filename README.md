@@ -53,4 +53,3 @@
 15. https://leetcode.com/problems/permutation-sequence/
 16. https://leetcode.com/problems/nth-magical-number/
 17. https://www.geeksforgeeks.org/find-nth-magic-number/
-
